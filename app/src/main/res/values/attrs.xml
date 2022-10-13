@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StoriesProgressView">
+        <attr name="progressCount" format="integer|reference" />
+        <attr name="backProgress" format="color" />
+        <attr name="frontProgress" format="color" />
+        <attr name="maxProgress" format="color" />
+    </declare-styleable>
+</resources>
